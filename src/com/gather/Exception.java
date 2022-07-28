@@ -15,7 +15,10 @@ public class Exception {
             e.printStackTrace();
         }
 
+
         String[] character = {"うさまる", "ふなっしー", "ピカチュウ"};
+
+
         int index = 4;
         try {
             System.out.println(character[index]);
